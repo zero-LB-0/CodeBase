@@ -1,7 +1,7 @@
 # CodeBase
 ## CheckLogScript V1.0.0
 
-###Script statement
+### Script statement
 
 1. Please do not make the input field of the dead verification script, because the author is too lazy to write the check
 
@@ -13,9 +13,9 @@
 
 5. The script can batch query logs of only one month, for example, January in the logs of January and February
 
-###Script Instructions
+### Script Instructions
 
-####Input module
+#### Input module
 
 1. 'directory' is the identifier entered in the path of the receiving folder
 
@@ -33,7 +33,7 @@
 
 8. 'inputLogDate' indicates the id of the received date. Enter the date in the log name
 
-####Statistics data access module
+#### Statistics data access module
 
 1. 'count_dict' stores data in a dictionary format, that is, the keyword to be queried in the log. The number of occurrences of the keyword is compared
 
